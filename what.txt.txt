@@ -1,0 +1,14 @@
+Make a delivery website like amazon flipkart etc.
+can use bootstrap 
+research for more ideas firstly design ui on canva 
+then download assets-> images etc.
+Code 
+All the Best:)
+
+
+Steps Followed
+1. Designing on Canva
+21:15 27-07-2023
+
+2. Designing left in between Implementing the designed as of now
+21:47 27-07-2023
